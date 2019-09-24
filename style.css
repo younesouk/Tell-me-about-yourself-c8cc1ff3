@@ -1,0 +1,12 @@
+nummer{
+text align-content: center;
+color: red;
+}
+body{
+    text text-align: center;
+}
+
+.rand:focus {
+  background: yellow;
+  color: red;
+}
